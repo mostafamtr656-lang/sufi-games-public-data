@@ -1,0 +1,82 @@
+name: تحديث بيانات SUFI GAMES العامة
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sufi-games-public-data-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-public-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: جلب نسخة المستودع
+        uses: actions/checkout@v4
+
+      - name: تحديث نسخة معلومات الألعاب العامة
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          site='https://sufi-games.mostafamtr656.workers.dev'
+          games_file="$(mktemp)"
+
+          curl --fail --location --retry 3 --retry-delay 5 --connect-timeout 15 --max-time 60 --silent --show-error \
+            "$site/api/games" -o "$games_file"
+
+          jq -e '.games | type == "array"' "$games_file" >/dev/null
+
+          jq -n --slurpfile source_games "$games_file" '
+            {
+              schemaVersion: 1,
+              updatedAt: (now | todateiso8601),
+              games: (
+                $source_games[0].games | map({
+                  id: (.id // ""),
+                  title: (.title // ""),
+                  titleAr: (.titleAr // ""),
+                  slug: (.slug // ""),
+                  platform: (.platform // ""),
+                  platformLabel: (.platformLabel // ""),
+                  genre: (.genre // ""),
+                  region: (.region // ""),
+                  fileSize: (.fileSize // ""),
+                  cusa: (.cusa // ""),
+                  score: (.score // ""),
+                  ratingCount: (.ratingCount // 0),
+                  favoriteCount: (.favoriteCount // 0),
+                  coverImage: (.coverImage // "")
+                })
+              ),
+              saveData: [],
+              publishers: [],
+              developers: []
+            }
+          ' > public-data.json.next
+
+          jq -S 'del(.updatedAt)' public-data.json.next > public-data.next.compare
+
+          if [ -f public-data.json ]; then
+            jq -S 'del(.updatedAt)' public-data.json > public-data.current.compare
+
+            if cmp -s public-data.next.compare public-data.current.compare; then
+              echo 'لا توجد تغييرات عامة جديدة للحفظ.'
+              exit 0
+            fi
+          fi
+
+          mv public-data.json.next public-data.json
+
+          git config user.name 'SUFI GAMES Public Data Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add public-data.json
+          git commit -m 'تحديث تلقائي لبيانات الألعاب العامة'
+          git push
