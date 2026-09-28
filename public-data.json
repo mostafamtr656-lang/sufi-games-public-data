@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T05:21:45Z",
+  "updatedAt": "2026-09-28T13:51:45Z",
   "games": [
+    {
+      "id": "fbcdb885-d36f-4230-b7f2-e21491ecdb38",
+      "title": "Call of Duty: Modern Warfare",
+      "titleAr": "Call of Duty: Modern Warfare",
+      "slug": "call-of-duty-modern-warfare",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن، إطلاق نار",
+      "region": "EUR",
+      "fileSize": "82GB",
+      "cusa": "CUSA:15278",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/fbcdb885-d36f-4230-b7f2-e21491ecdb38/cover?v=2026-09-28T13%3A23%3A58.071Z"
+    },
+    {
+      "id": "b4f628f3-42d1-4922-83cc-df543db7ab75",
+      "title": "Call of Duty Modern Warfare Remastered",
+      "titleAr": "Call of Duty Modern Warfare Remastered",
+      "slug": "call-of-duty-modern-warfare-remastered",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن، القتال، إطلاق نار",
+      "region": "USA",
+      "fileSize": "79",
+      "cusa": "CUSA:03522",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/b4f628f3-42d1-4922-83cc-df543db7ab75/cover?v=2026-09-28T13%3A12%3A17.343Z"
+    },
     {
       "id": "44083b15-5ce0-4eae-9cb1-f14020dc5445",
       "title": "Resident Evil 5",
@@ -431,7 +463,7 @@
       "cusa": "CUSA:00556",
       "score": "5.0",
       "ratingCount": 1,
-      "favoriteCount": 1,
+      "favoriteCount": 3,
       "coverImage": "/media/game/fd360f4e-fc99-40b7-be57-09d2084dbf8e/cover?v=2026-09-23T14%3A01%3A43.767Z"
     },
     {
@@ -557,8 +589,8 @@
       "region": "EUR",
       "fileSize": "63.6GB",
       "cusa": "CUSA:57220",
-      "score": "3.9",
-      "ratingCount": 7,
+      "score": "3.5",
+      "ratingCount": 8,
       "favoriteCount": 22,
       "coverImage": "/media/game/8471a6ce-84ca-4139-a732-058c753fef4d/cover?v=2026-09-21T20%3A14%3A57.371Z"
     },
@@ -749,8 +781,8 @@
       "region": "",
       "fileSize": "",
       "cusa": "",
-      "score": "",
-      "ratingCount": 0,
+      "score": "5.0",
+      "ratingCount": 1,
       "favoriteCount": 1,
       "coverImage": "/media/game/ccaa0b79-f430-4c1b-8e60-93e230a7dc90/cover?v=2026-09-14T21%3A04%3A12.294Z"
     },
@@ -1023,7 +1055,7 @@
       "cusa": "CUSA:00411|CUSA00419",
       "score": "4.8",
       "ratingCount": 2,
-      "favoriteCount": 7,
+      "favoriteCount": 8,
       "coverImage": "/media/game/23d20cb2-e19d-4e9b-997d-d77af2c4ac5d/cover?v=2026-09-18T23%3A42%3A52.643Z"
     },
     {
