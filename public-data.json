@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T21:14:56Z",
+  "updatedAt": "2026-09-29T00:59:54Z",
   "games": [
+    {
+      "id": "8c1c4f51-5d8d-4e41-9697-13befb3acc6d",
+      "title": "Far cry 6",
+      "titleAr": "Far cry 6",
+      "slug": "far-cry-6",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن | القتال | إطلاق نار",
+      "region": "EUR",
+      "fileSize": "110GB",
+      "cusa": "CUSA15778",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/8c1c4f51-5d8d-4e41-9697-13befb3acc6d/cover?v=2026-09-29T00%3A48%3A17.403Z"
+    },
     {
       "id": "da35a6d5-68c9-45a3-97c9-65fbd80387ca",
       "title": "Far Cry 3 Classic",
@@ -16,7 +32,7 @@
       "score": "",
       "ratingCount": 0,
       "favoriteCount": 0,
-      "coverImage": "/media/game/da35a6d5-68c9-45a3-97c9-65fbd80387ca/cover?v=2026-09-28T19%3A35%3A46.838Z"
+      "coverImage": "/media/game/da35a6d5-68c9-45a3-97c9-65fbd80387ca/cover?v=2026-09-29T00%3A40%3A01.538Z"
     },
     {
       "id": "8ca02a70-a61c-42a7-a0c1-dff81d38ac64",
