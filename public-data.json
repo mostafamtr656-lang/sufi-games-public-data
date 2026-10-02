@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T17:51:54Z",
+  "updatedAt": "2026-10-02T22:12:43Z",
   "games": [
+    {
+      "id": "158e337f-a5aa-4d51-8ecb-fd4c9541319b",
+      "title": "Devil May Cry 5",
+      "titleAr": "Devil May Cry 5",
+      "slug": "devil-may-cry-5",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "القتال | أكشن | استراتيجية",
+      "region": "EUR",
+      "fileSize": "31.35GB",
+      "cusa": "CUSA08161",
+      "score": "5.0",
+      "ratingCount": 1,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/158e337f-a5aa-4d51-8ecb-fd4c9541319b/cover?v=2026-10-02T18%3A31%3A56.711Z"
+    },
     {
       "id": "ae8c9c70-a50a-49a7-b774-6a51f7c6b494",
       "title": "Elden Ring Nightreign",
