@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-01T18:25:07Z",
+  "updatedAt": "2026-10-02T17:51:54Z",
   "games": [
+    {
+      "id": "ae8c9c70-a50a-49a7-b774-6a51f7c6b494",
+      "title": "Elden Ring Nightreign",
+      "titleAr": "Elden Ring Nightreign",
+      "slug": "elden-ring-nightreign",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن | مغامرات | RPG | عالم مفتوح",
+      "region": "EUR",
+      "fileSize": "18GB",
+      "cusa": "CUSA50617",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/ae8c9c70-a50a-49a7-b774-6a51f7c6b494/cover?v=2026-10-02T13%3A31%3A45.102Z"
+    },
     {
       "id": "52743f8a-047b-4af4-8b44-c122afbbe6e1",
       "title": "Silent Hill Shatteres Memories",
