@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T05:57:01Z",
+  "updatedAt": "2026-10-08T18:50:23Z",
   "games": [
     {
       "id": "331d4308-0807-427a-b967-d11b48e5e794",
@@ -93,8 +93,8 @@
       "region": "USA",
       "fileSize": "1.5GB",
       "cusa": "CUSA01127",
-      "score": "",
-      "ratingCount": 0,
+      "score": "3.0",
+      "ratingCount": 1,
       "favoriteCount": 0,
       "coverImage": "/media/game/4e08502a-4260-4a0c-9635-7c5f62082e89/cover?v=2026-09-29T03%3A48%3A17.269Z"
     },
