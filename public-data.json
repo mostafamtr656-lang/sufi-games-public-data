@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T11:21:06Z",
+  "updatedAt": "2026-10-16T16:37:26Z",
   "games": [
     {
       "id": "b22f6c60-1fa6-4ccf-b583-2f1fc1667aa4",
@@ -1177,14 +1177,14 @@
       "slug": "red-dead-redemption-1",
       "platform": "ps4",
       "platformLabel": "PS4",
-      "genre": "أكشن | إطلاق نار | مغامرات | القتال",
+      "genre": "أكشن | مغامرات | عالم مفتوح",
       "region": "EUR",
       "fileSize": "10GB",
       "cusa": "CUSA36843",
       "score": "",
       "ratingCount": 0,
       "favoriteCount": 1,
-      "coverImage": "/media/game/d1688f15-7dd7-4105-a0e5-c8b06c08996c/cover?v=2026-09-29T01%3A46%3A20.752Z"
+      "coverImage": "/media/game/d1688f15-7dd7-4105-a0e5-c8b06c08996c/cover?v=2026-10-16T12%3A14%3A04.916Z"
     },
     {
       "id": "6f80edd6-baf4-46a2-aa48-144294679aef",
