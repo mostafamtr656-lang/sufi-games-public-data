@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T16:37:26Z",
+  "updatedAt": "2026-10-18T20:40:42Z",
   "games": [
     {
       "id": "b22f6c60-1fa6-4ccf-b583-2f1fc1667aa4",
@@ -15,7 +15,7 @@
       "cusa": "PPSA99078",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/b22f6c60-1fa6-4ccf-b583-2f1fc1667aa4/cover?v=2026-10-16T11%3A04%3A52.581Z"
     },
     {
