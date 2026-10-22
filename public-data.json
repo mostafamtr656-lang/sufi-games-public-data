@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T14:17:44Z",
+  "updatedAt": "2026-10-22T21:34:03Z",
   "games": [
+    {
+      "id": "1183fc55-d619-4719-9e8d-1f57b4b6c59e",
+      "title": "eFootball PES 2027 Monster Patch Datapack 7.06",
+      "titleAr": "eFootball PES 2027 Monster Patch Datapack 7.06",
+      "slug": "efootball-pes-2027-monster-patch-datapack-7-06",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "رياضة",
+      "region": "EUR",
+      "fileSize": "85GB",
+      "cusa": "CUSA18740",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/1183fc55-d619-4719-9e8d-1f57b4b6c59e/cover?v=2026-10-22T21%3A22%3A46.697Z"
+    },
+    {
+      "id": "308b4956-cc5c-4e16-bc3f-94f8351ec08c",
+      "title": "Cyberpunk 2077",
+      "titleAr": "Cyberpunk 2077",
+      "slug": "cyberpunk-2077",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن | القتال",
+      "region": "EUR",
+      "fileSize": "70GB",
+      "cusa": "CUSA16596",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/308b4956-cc5c-4e16-bc3f-94f8351ec08c/cover?v=2026-10-22T20%3A35%3A24.787Z"
+    },
     {
       "id": "b22f6c60-1fa6-4ccf-b583-2f1fc1667aa4",
       "title": "Red Dead Redemption 1",
