@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T21:34:03Z",
+  "updatedAt": "2026-10-23T04:46:36Z",
   "games": [
+    {
+      "id": "d85889b2-c8f7-4375-80a2-11756c3319df",
+      "title": "eFootball PES 2018 GEMBOX PATCH SUMMER 2026-2027",
+      "titleAr": "eFootball PES 2018 GEMBOX PATCH SUMMER 2026-2027",
+      "slug": "efootball-pes-2018-gembox-patch-summer-2026-2027",
+      "platform": "ps3",
+      "platformLabel": "PS3",
+      "genre": "رياضة",
+      "region": "USA",
+      "fileSize": "12GB",
+      "cusa": "18740",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/d85889b2-c8f7-4375-80a2-11756c3319df/cover?v=2026-10-22T21%3A48%3A24.721Z"
+    },
     {
       "id": "1183fc55-d619-4719-9e8d-1f57b4b6c59e",
       "title": "eFootball PES 2027 Monster Patch Datapack 7.06",
