@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T04:46:36Z",
+  "updatedAt": "2026-10-26T20:28:33Z",
   "games": [
     {
       "id": "d85889b2-c8f7-4375-80a2-11756c3319df",
@@ -47,7 +47,7 @@
       "cusa": "CUSA16596",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/308b4956-cc5c-4e16-bc3f-94f8351ec08c/cover?v=2026-10-22T20%3A35%3A24.787Z"
     },
     {
@@ -79,7 +79,7 @@
       "cusa": "CUSA20549",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/331d4308-0807-427a-b967-d11b48e5e794/cover?v=2026-10-02T23%3A20%3A35.657Z"
     },
     {
@@ -223,7 +223,7 @@
       "cusa": "CUSA15778",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "coverImage": "/media/game/8c1c4f51-5d8d-4e41-9697-13befb3acc6d/cover?v=2026-09-29T00%3A48%3A17.403Z"
     },
     {
@@ -239,7 +239,7 @@
       "cusa": "CUSA05849",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "coverImage": "/media/game/2b3cecf7-2ce5-4dbf-8d0a-570b6825bac9/cover?v=2026-09-29T01%3A04%3A54.372Z"
     },
     {
@@ -287,7 +287,7 @@
       "cusa": "CUSA10326",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/da35a6d5-68c9-45a3-97c9-65fbd80387ca/cover?v=2026-09-29T00%3A40%3A01.538Z"
     },
     {
@@ -415,7 +415,7 @@
       "cusa": "CUSA18008",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/b7bdaebc-4f36-4416-b69f-93e87c606b0e/cover?v=2026-09-28T19%3A30%3A54.181Z"
     },
     {
@@ -431,7 +431,7 @@
       "cusa": "CUSA03842",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/f54b9b07-5f39-412a-97b4-b040eb28acad/cover?v=2026-09-28T19%3A30%3A54.181Z"
     },
     {
@@ -719,7 +719,7 @@
       "cusa": "CUSA18723",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 0,
+      "favoriteCount": 1,
       "coverImage": "/media/game/25c42a57-38f5-4b6c-a2be-d02d99f0830e/cover?v=2026-09-28T19%3A30%3A54.181Z"
     },
     {
@@ -767,7 +767,7 @@
       "cusa": "CUSA13323",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "coverImage": "/media/game/e1fd7a0e-eab7-44b2-a88a-ad58f771ba24/cover?v=2026-09-25T10%3A46%3A35.047Z"
     },
     {
@@ -1407,7 +1407,7 @@
       "cusa": "CUSA00411|CUSA00419",
       "score": "4.8",
       "ratingCount": 2,
-      "favoriteCount": 10,
+      "favoriteCount": 11,
       "coverImage": "/media/game/23d20cb2-e19d-4e9b-997d-d77af2c4ac5d/cover?v=2026-09-18T23%3A42%3A52.643Z"
     },
     {
