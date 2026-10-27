@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:28:33Z",
+  "updatedAt": "2026-10-27T00:24:38Z",
   "games": [
     {
       "id": "d85889b2-c8f7-4375-80a2-11756c3319df",
@@ -431,7 +431,7 @@
       "cusa": "CUSA03842",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 0,
       "coverImage": "/media/game/f54b9b07-5f39-412a-97b4-b040eb28acad/cover?v=2026-09-28T19%3A30%3A54.181Z"
     },
     {
