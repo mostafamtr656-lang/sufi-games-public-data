@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T23:39:37Z",
+  "updatedAt": "2026-11-05T23:37:30Z",
   "games": [
+    {
+      "id": "8b4bcb46-b9ed-49e2-9901-0cc84e9e79a7",
+      "title": "Mafia Definitive Edition",
+      "titleAr": "Mafia Definitive Edition",
+      "slug": "mafia-definitive-edition",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن | مغامرات | إطلاق نار | عالم مفتوح",
+      "region": "USA",
+      "fileSize": "55GB",
+      "cusa": "CUSA18097",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/8b4bcb46-b9ed-49e2-9901-0cc84e9e79a7/cover?v=2026-11-05T23%3A08%3A48.118Z"
+    },
     {
       "id": "5c3b91e3-6558-47c1-8db6-97c1f27e885c",
       "title": "Street Fighter 6",
