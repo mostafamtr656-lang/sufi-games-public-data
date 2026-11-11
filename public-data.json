@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T10:54:44Z",
+  "updatedAt": "2026-11-11T19:33:56Z",
   "games": [
+    {
+      "id": "e9a10cb6-c618-41d9-8781-0b8aa8680849",
+      "title": "brawlhalla",
+      "titleAr": "brawlhalla",
+      "slug": "brawlhalla",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "أكشن",
+      "region": "EUR",
+      "fileSize": "1GB",
+      "cusa": "CUSA05330",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/e9a10cb6-c618-41d9-8781-0b8aa8680849/cover?v=2026-11-11T11%3A24%3A52.857Z"
+    },
     {
       "id": "8ac283fe-7424-480a-8ce0-2a52dd9d44fe",
       "title": "FIFA 17",
