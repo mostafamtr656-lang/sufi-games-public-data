@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T12:57:58Z",
+  "updatedAt": "2026-11-11T10:54:44Z",
   "games": [
+    {
+      "id": "8ac283fe-7424-480a-8ce0-2a52dd9d44fe",
+      "title": "FIFA 17",
+      "titleAr": "FIFA 17",
+      "slug": "fifa-17",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "رياضة",
+      "region": "EUR",
+      "fileSize": "30GB",
+      "cusa": "CUSA03215",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/8ac283fe-7424-480a-8ce0-2a52dd9d44fe/cover?v=2026-11-11T10%3A50%3A38.175Z"
+    },
     {
       "id": "8b4bcb46-b9ed-49e2-9901-0cc84e9e79a7",
       "title": "Mafia Definitive Edition",
