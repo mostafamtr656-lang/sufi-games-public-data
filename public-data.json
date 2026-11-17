@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T19:34:36Z",
+  "updatedAt": "2026-11-17T15:57:47Z",
   "games": [
+    {
+      "id": "8e36c8bc-53de-4ae0-94f9-82c755bfd190",
+      "title": "Blur",
+      "titleAr": "Blur",
+      "slug": "blur-2",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "سباقات",
+      "region": "USA",
+      "fileSize": "500mb",
+      "cusa": "CUSA12345",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/8e36c8bc-53de-4ae0-94f9-82c755bfd190/cover?v=2026-11-17T15%3A49%3A07.733Z"
+    },
     {
       "id": "0a90a2b4-3e08-4f69-b381-d68a1a6c6311",
       "title": "Red Dead Redemption 2",
@@ -9,14 +25,14 @@
       "slug": "red-dead-redemption-2-2",
       "platform": "ps4",
       "platformLabel": "PS4",
-      "genre": "أكشن | مغامرات | القتال | إطلاق نار | عا",
+      "genre": "أكشن | مغامرات | القتال | إطلاق نار | عالم مفتوح",
       "region": "USA",
       "fileSize": "100GB",
       "cusa": "CUSA03041",
       "score": "",
       "ratingCount": 0,
       "favoriteCount": 0,
-      "coverImage": "/media/game/0a90a2b4-3e08-4f69-b381-d68a1a6c6311/cover?v=2026-11-16T11%3A39%3A43.697Z"
+      "coverImage": "/media/game/0a90a2b4-3e08-4f69-b381-d68a1a6c6311/cover?v=2026-11-17T12%3A41%3A01.142Z"
     },
     {
       "id": "e9a10cb6-c618-41d9-8781-0b8aa8680849",
