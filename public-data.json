@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:38:26Z",
+  "updatedAt": "2026-11-18T20:28:53Z",
   "games": [
+    {
+      "id": "198b8395-41d9-4be3-bd26-eff83933fabd",
+      "title": "Peter Jacksons King Kong The Official Game of The Movie",
+      "titleAr": "Peter Jacksons King Kong The Official Game of The Movie",
+      "slug": "peter-jacksons-king-kong-the-official-game-of-the-movie",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "أكشن",
+      "region": "USA",
+      "fileSize": "2GB",
+      "cusa": "SLUS21311",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/198b8395-41d9-4be3-bd26-eff83933fabd/cover?v=2026-11-18T17%3A43%3A00.817Z"
+    },
+    {
+      "id": "205864e3-0459-4680-80fe-f93233d57d60",
+      "title": "Totally Accurate Battle Simulator",
+      "titleAr": "Totally Accurate Battle Simulator",
+      "slug": "totally-accurate-battle-simulator",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "محاكاة | استراتيجية",
+      "region": "USA",
+      "fileSize": "12GB",
+      "cusa": "CUSA29952",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/205864e3-0459-4680-80fe-f93233d57d60/cover?v=2026-11-18T17%3A09%3A04.824Z"
+    },
     {
       "id": "95eeda26-7974-4d87-b3ac-b109af34bfc1",
       "title": "Call Of Duty Black Ops Cold War",
