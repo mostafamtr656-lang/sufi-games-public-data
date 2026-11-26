@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T23:52:46Z",
+  "updatedAt": "2026-11-26T16:51:26Z",
   "games": [
+    {
+      "id": "688bbea3-e589-490c-bdd1-205245e87e17",
+      "title": "Need for speed",
+      "titleAr": "Need for speed",
+      "slug": "need-for-speed",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "سباقات | عالم مفتوح | متعدد لاعبين",
+      "region": "USA",
+      "fileSize": "500mb",
+      "cusa": "CUSA13467",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/688bbea3-e589-490c-bdd1-205245e87e17/cover?v=2026-11-26T11%3A52%3A04.411Z"
+    },
+    {
+      "id": "49cde487-16da-4159-9b0a-0684912e5b7c",
+      "title": "GEARS OF WAR 2",
+      "titleAr": "GEARS OF WAR 2",
+      "slug": "gears-of-war-2",
+      "platform": "ps4",
+      "platformLabel": "PS4",
+      "genre": "أكشن | إطلاق نار | متعدد لاعبين",
+      "region": "USA",
+      "fileSize": "6.9GB",
+      "cusa": "CUSA012346",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/49cde487-16da-4159-9b0a-0684912e5b7c/cover?v=2026-11-26T11%3A52%3A27.755Z"
+    },
     {
       "id": "198b8395-41d9-4be3-bd26-eff83933fabd",
       "title": "Peter Jacksons King Kong The Official Game of The Movie",
