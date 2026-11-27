@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T16:51:26Z",
+  "updatedAt": "2026-11-27T21:18:22Z",
   "games": [
     {
       "id": "688bbea3-e589-490c-bdd1-205245e87e17",
@@ -1135,7 +1135,7 @@
       "cusa": "CUSA.....",
       "score": "",
       "ratingCount": 0,
-      "favoriteCount": 1,
+      "favoriteCount": 2,
       "coverImage": "/media/game/cd0c0a49-01af-40c6-8774-94145d12ebca/cover?v=2026-09-23T13%3A15%3A15.632Z"
     },
     {
@@ -1231,7 +1231,7 @@
       "cusa": "CUSA57220",
       "score": "3.7",
       "ratingCount": 9,
-      "favoriteCount": 23,
+      "favoriteCount": 24,
       "coverImage": "/media/game/8471a6ce-84ca-4139-a732-058c753fef4d/cover?v=2026-09-21T20%3A14%3A57.371Z"
     },
     {
