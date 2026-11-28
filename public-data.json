@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T21:18:22Z",
+  "updatedAt": "2026-11-28T07:45:07Z",
   "games": [
+    {
+      "id": "2ecd678f-8063-4704-9208-2f84a93f7776",
+      "title": "Call of Duty Vanguard",
+      "titleAr": "Call of Duty Vanguard",
+      "slug": "call-of-duty-vanguard",
+      "platform": "arabic",
+      "platformLabel": "ARABIC",
+      "genre": "أكشن | إطلاق نار | القتال",
+      "region": "USA",
+      "fileSize": "85GB",
+      "cusa": "CUSA24041",
+      "score": "",
+      "ratingCount": 0,
+      "favoriteCount": 0,
+      "coverImage": "/media/game/2ecd678f-8063-4704-9208-2f84a93f7776/cover?v=2026-11-28T06%3A07%3A29.729Z"
+    },
     {
       "id": "688bbea3-e589-490c-bdd1-205245e87e17",
       "title": "Need for speed",
